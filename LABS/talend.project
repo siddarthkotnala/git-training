@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
-  <TalendProperties:Project xmi:id="_I-E9IN_oEeeDJ75CtprYhg" label="Labs" description="" language="java" technicalLabel="LABS" creationDate="2017-12-13T01:22:00.000-0800" author="_I-E9Id_oEeeDJ75CtprYhg" productVersion="Talend Data Fabric-6.4.1.20170623_1246" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/siddarthkotnala/git-training&quot;,&quot;login&quot;:&quot;siddarthkotnala@gmail.com&quot;,&quot;passwd&quot;:&quot;mMxOCMPM7VxOOgnY2lc4Fw==&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI" itemsRelationVersion="1.3">
+  <TalendProperties:Project xmi:id="_I-E9IN_oEeeDJ75CtprYhg" label="Labs" description="" language="java" technicalLabel="LABS" creationDate="2017-12-13T01:22:00.000-0800" author="_I-E9Id_oEeeDJ75CtprYhg" productVersion="Talend Data Fabric-6.4.1.20170623_1246" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/siddarthkotnala/git-training&quot;,&quot;login&quot;:&quot;siddarthkotnala@gmail.com&quot;,&quot;passwd&quot;:&quot;mMxOCMPM7VxOOgnY2lc4Fw==&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" itemsRelationVersion="1.3">
     <technicalStatus xmi:id="_JHwdkN_oEeeDJ75CtprYhg" label="development" code="DEV"/>
     <technicalStatus xmi:id="_JHwdkd_oEeeDJ75CtprYhg" label="testing" code="TEST"/>
     <technicalStatus xmi:id="_JHwdkt_oEeeDJ75CtprYhg" label="production" code="PROD"/>
@@ -404,5 +404,5 @@
     <migrationTask xmi:id="_JzXmut_oEeeDJ75CtprYhg" id="org.talend.repository.model.migration.AutoUpdateRelationsMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_I-E9Id_oEeeDJ75CtprYhg" login="admin@company.com" firstName="Admin" lastName="Admin" type="MDM" additionnalData="{}"/>
-  <TalendProperties:User xmi:id="_JH3yUN_oEeeDJ75CtprYhg" login="gituser@company.com" firstName="Git" lastName="user" type="MDM" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_JH3yUN_oEeeDJ75CtprYhg" login="gituser@company.com" firstName="Git" lastName="git" type="MDM" additionnalData="{}"/>
 </xmi:XMI>
